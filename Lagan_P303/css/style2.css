@@ -1,0 +1,19 @@
+body{
+	font:14px Arial, Helvetica, sans-serif;
+	background-color:#4d79ff;
+}
+table{
+	background-color:#000000;
+	margin:auto;
+}
+th, td{
+	text-align:center;
+	background-color:#ccffcc;
+	padding:15px;
+	width:155px;
+	border:1px solid black;
+}
+h1{
+	text-align:center;
+	line-height:1em;
+}
